@@ -77,6 +77,8 @@ Range("Q4") = FormatCurrency(Largest)
 
 End Sub
 
+'--------------------------------------------------------------------------------------------------------------------------------------------------
+
 Sub YearlyStockRun()
 For Each ws In Worksheets
     Dim WorksheetName As String
